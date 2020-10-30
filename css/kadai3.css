@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color:#ffffff;
+    background-color: #000000
+}
+h2{
+    text-align: center;
+    color:forestgreen;
+    background-color: #ccffa2;
+}
+h3{
+    color: #8860ff;
+}
+p{
+    color:#d396ff;
+}
+body{
+    background-image: url(../images/back3.jpg);
+}

@@ -1,0 +1,14 @@
+.black{background-color: black;
+       color: white;
+       text-align: center; }
+.midori{background-color: yellowgreen;
+        color: green;
+        text-align: center;}
+.backs{background-color: slateblue;
+       color: mediumvioletred;
+       text-align: center;}
+.rink{background-color: darkolivegreen;
+      color: gold;
+      text-align: center;}
+body{
+    background-image: url(../images/back4.jpg);
